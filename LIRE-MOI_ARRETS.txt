@@ -1,0 +1,24 @@
+MESOUTILSPSY — ARRÊTS
+
+Ouvrir index.html après avoir décompressé l’ensemble du dossier.
+Le module Arrêts se trouve dans Médico-légal (accueil et menu latéral).
+Conserver arrets.js à côté d’index.html, ainsi que tous les fichiers existants.
+
+Dernière version intégrée : module 1.2, références vérifiées le 8 novembre 2026.
+Prescriptions, AT/MP, congés publics, indemnisation, TPT, documents et suites.
+Les sources officielles sont accessibles dans l’onglet Repères & sources.
+
+La navigation et les calculs du module fonctionnent hors connexion. Les liens
+vers les sources officielles nécessitent une connexion. Aucune donnée de
+situation n’est transmise ou sauvegardée automatiquement par le module.
+L’identité du bandeau du site n’est pas reprise dans Arrêts. La situation
+est conservée en mémoire en changeant d’outil ; utiliser Nouvelle situation
+pour l’effacer. Fermer ou recharger la page efface également la saisie.
+
+Enregistrer / Reprendre dans le bandeau permet de sauvegarder et de recharger
+un fichier JSON local. L’export du seul outil Arrêts ne reprend pas l’identité
+du patient. L’export de toute la boîte contient, comme auparavant, les autres
+outils et l’identité commune du site.
+
+Copier et Imprimer exportent la synthèse. Ils ne créent pas un certificat
+officiel et ne valent pas décision de droits.
