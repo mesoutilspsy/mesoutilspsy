@@ -1,0 +1,26 @@
+CLM / CLD (Fonction publique)
+
+Ouvrir index.html, puis Travail > CLM / CLD (Fonction publique).
+
+Le bouton à deux positions choisit le certificat administratif ou détaillé.
+Les informations communes sont conservées lors du changement de volet.
+Choisir initiation ou prolongation, puis CLM ou CLD et la période proposée.
+En prolongation, les deux attestations complémentaires restent facultatives.
+Les bulles d’aide précisent les éléments attendus dans les champs médicaux.
+
+Les téléchargements Word (.docx) et PDF utilisent l’en-tête du médecin et du
+service sélectionnés. Le certificat administratif tient sur une page ; le
+certificat détaillé est paginé selon la longueur du texte. Les données cliniques
+du volet détaillé ne sont jamais reprises dans le modèle administratif.
+
+Les documents sont à relire, à signer et à cacheter par le médecin.
+Les précautions de transmission sont indiquées en bas de chaque certificat.
+Les quatre trames vierges sont dans le dossier Trames et dans l’archive ZIP.
+
+La génération des nouveaux certificats fonctionne localement et hors connexion.
+Pour conserver tous les autres modules, garder les fichiers annexes du site
+à côté de l’index, ou remplacer uniquement l’index dans le dossier habituel.
+
+Vérifications : exports depuis le navigateur, lecture des vrais fichiers DOCX
+et PDF, pagination Word, rendu des pages, séparation des contenus confidentiels,
+changement de médecin, disposition sur ordinateur et téléphone.
